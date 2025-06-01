@@ -13,7 +13,6 @@
 * [🤝 Contribuições](#-contribuições)
 * [👤 Autor](#-autor)
 * [🙏 Agradecimentos](#-agradecimentos)
-* [📜 Licença](#-licença)
 
 ## Sobre o Projeto
 
@@ -23,12 +22,9 @@ A ferramenta foi criada como parte do **Bootcamp Santander** em parceria com a *
 
 ## ✨ Funcionalidades
 
-* **Cadastro de FIIs:** Permite inserir informações básicas dos FIIs (Ticker, Preço da Cota, Dividendo por Cota).
+* **Cadastro de FIIs:** Permite inserir informações básicas dos FIIs (Tipos, Preço da Cota, Dividendo por Cota).
 * **Simulação de Aportes:** O usuário pode definir o valor do aporte inicial e aportes mensais.
 * **Cálculo de Rendimentos:** Calcula automaticamente os dividendos recebidos com base nos FIIs e na quantidade de cotas.
-* **Projeção de Patrimônio:** Mostra a evolução do patrimônio ao longo de um período determinado.
-* **Reinvestimento de Dividendos:** Opção para simular o reinvestimento automático dos dividendos recebidos.
-* **Visualização Gráfica:** Apresenta gráficos para facilitar a análise da evolução dos investimentos e rendimentos.
 * **Interface Intuitiva:** Design pensado para facilitar a navegação e o uso por qualquer pessoa, mesmo sem conhecimento avançado em Excel.
 
 ## 🖼️ Screenshot do Projeto
@@ -42,7 +38,6 @@ Aqui você pode ver uma prévia da interface principal do simulador:
 
 * **Microsoft Excel:**
     * Fórmulas Avançadas (SE, SOMASES, PROCX/PROCV, ÍNDICE, CORRESP, etc.)
-    * Tabelas Dinâmicas (opcional, se utilizado)
     * Formatação Condicional
     * Validação de Dados
 
@@ -51,7 +46,6 @@ Aqui você pode ver uma prévia da interface principal do simulador:
 ### Pré-requisitos
 
 * Ter o **Microsoft Excel** instalado (preferencialmente versão 2013 ou superior para garantir compatibilidade com todas as funcionalidades).
-* Habilitar macros, caso o projeto utilize VBA.
 
 ### Passo a Passo
 
