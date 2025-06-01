@@ -57,7 +57,7 @@ Aqui você pode ver uma prévia da interface principal do simulador:
 
 1.  **Clone o repositório** (ou faça o download do arquivo `.xlsx`):
     ```bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/Campos-DataAnalyst/projeto-simulador-investimentos-bootcamp-santander.git)
+    git clone (https://github.com/Campos-DataAnalyst/projeto-simulador-investimentos-bootcamp-santander.git)
     ```
 2.  **Abra o arquivo** `PROJETO_DATA_INVEST.xlsx` (ou o nome que você deu ao seu arquivo) no Microsoft Excel.
 3.  **Navegue pelas abas/planilhas:**
@@ -88,9 +88,8 @@ Contribuições são bem-vindas! Se você tiver sugestões para melhorar este si
 ## 👤 Autor
 
 * **[PEDRO DE CAMPOS]**
-    * LinkedIn: [[SEU LINKEDIN AQUI](https://www.linkedin.com/in/pedro-de-campos-dev/)]
-    * GitHub: [@SEU_USUARIO_GITHUB_AQUI]
-    * DIO: [Placeholder para Perfil da DIO](./assets/mEU_pERFIL_dio.png)
+    * LinkedIn: [https://www.linkedin.com/in/pedro-de-campos-dev/]
+    * DIO: ![Placeholder para Perfil da DIO](./assets/mEU_pERFIL_dio.png)
 
 ## 🙏 Agradecimentos
 
